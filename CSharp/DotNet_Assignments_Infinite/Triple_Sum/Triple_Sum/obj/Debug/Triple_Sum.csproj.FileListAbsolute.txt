@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\bin\Debug\Triple_Sum.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\bin\Debug\Triple_Sum.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\bin\Debug\Triple_Sum.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\obj\Debug\Triple_Sum.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\obj\Debug\Triple_Sum.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\obj\Debug\Triple_Sum.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Triple_Sum\Triple_Sum\obj\Debug\Triple_Sum.pdb

@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\bin\Debug\Day3_Program_Constructs.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\bin\Debug\Day3_Program_Constructs.exe
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\bin\Debug\Day3_Program_Constructs.pdb
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\obj\Debug\Day3_Program_Constructs.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\obj\Debug\Day3_Program_Constructs.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\obj\Debug\Day3_Program_Constructs.exe
+C:\DotNet_Training\Infinite_1\CSharp\Day3_Program_Constructs\Day3_Program_Constructs\obj\Debug\Day3_Program_Constructs.pdb
