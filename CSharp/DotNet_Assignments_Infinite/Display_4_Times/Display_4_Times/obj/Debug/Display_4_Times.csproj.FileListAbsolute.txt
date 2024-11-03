@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\bin\Debug\Display_4_Times.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\bin\Debug\Display_4_Times.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\bin\Debug\Display_4_Times.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\obj\Debug\Display_4_Times.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\obj\Debug\Display_4_Times.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\obj\Debug\Display_4_Times.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Display_4_Times\Display_4_Times\obj\Debug\Display_4_Times.pdb

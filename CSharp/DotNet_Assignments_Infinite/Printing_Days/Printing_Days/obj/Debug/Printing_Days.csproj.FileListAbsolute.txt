@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\bin\Debug\Printing_Days.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\bin\Debug\Printing_Days.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\bin\Debug\Printing_Days.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\obj\Debug\Printing_Days.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\obj\Debug\Printing_Days.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\obj\Debug\Printing_Days.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Printing_Days\Printing_Days\obj\Debug\Printing_Days.pdb

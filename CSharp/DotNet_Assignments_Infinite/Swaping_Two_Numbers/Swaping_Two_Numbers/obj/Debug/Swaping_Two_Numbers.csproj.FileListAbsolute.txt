@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\bin\Debug\Swaping_Two_Numbers.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\bin\Debug\Swaping_Two_Numbers.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\bin\Debug\Swaping_Two_Numbers.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\obj\Debug\Swaping_Two_Numbers.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\obj\Debug\Swaping_Two_Numbers.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\obj\Debug\Swaping_Two_Numbers.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Swaping_Two_Numbers\Swaping_Two_Numbers\obj\Debug\Swaping_Two_Numbers.pdb

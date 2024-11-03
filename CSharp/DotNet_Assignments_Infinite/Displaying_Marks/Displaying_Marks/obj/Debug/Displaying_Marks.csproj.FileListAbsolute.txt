@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\bin\Debug\Displaying_Marks.exe.config
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\bin\Debug\Displaying_Marks.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\bin\Debug\Displaying_Marks.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\obj\Debug\Displaying_Marks.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\obj\Debug\Displaying_Marks.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\obj\Debug\Displaying_Marks.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\Displaying_Marks\Displaying_Marks\obj\Debug\Displaying_Marks.pdb
