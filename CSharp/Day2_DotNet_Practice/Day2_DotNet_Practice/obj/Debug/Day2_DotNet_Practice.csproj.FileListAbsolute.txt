@@ -1,7 +1,0 @@
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\bin\Debug\Day2_DotNet_Practice.exe.config
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\bin\Debug\Day2_DotNet_Practice.exe
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\bin\Debug\Day2_DotNet_Practice.pdb
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\obj\Debug\Day2_DotNet_Practice.csproj.AssemblyReference.cache
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\obj\Debug\Day2_DotNet_Practice.csproj.CoreCompileInputs.cache
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\obj\Debug\Day2_DotNet_Practice.exe
-C:\DotNet_Training\Infinite_1\CSharp\Day2_DotNet_Practice\Day2_DotNet_Practice\obj\Debug\Day2_DotNet_Practice.pdb

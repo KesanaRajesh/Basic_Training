@@ -1,7 +1,0 @@
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\bin\Debug\Day3_DotNet_Training.exe.config
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\bin\Debug\Day3_DotNet_Training.exe
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\bin\Debug\Day3_DotNet_Training.pdb
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\obj\Debug\Day3_DotNet_Training.csproj.AssemblyReference.cache
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\obj\Debug\Day3_DotNet_Training.csproj.CoreCompileInputs.cache
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\obj\Debug\Day3_DotNet_Training.exe
-C:\DotNet_Training\Infinite_1\CSharp\Day3_DotNet_Training\Day3_DotNet_Training\obj\Debug\Day3_DotNet_Training.pdb
