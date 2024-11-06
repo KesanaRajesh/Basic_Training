@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment_3.SaleDetails</StartupObject>
+    <StartupObject>program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Accounts.cs" />
+    <Compile Include="Student_Details.cs" />
     <Compile Include="SaleDetails.cs" />
     <Compile Include="Comparing_Two_Strings.cs" />
     <Compile Include="Reverse_The_String.cs" />

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assessment_1.Largest_Number_Among_Three_Numbers</StartupObject>
+    <StartupObject>Assessment_1.Exchanging</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exchanging_First_And_Last.cs" />
+    <Compile Include="Exchanging.cs" />
     <Compile Include="Largest_Number_Among_Three_Numbers.cs" />
     <Compile Include="OccuranceOfLetter.cs" />
     <Compile Include="Removing_Characters_At_Given_Position.cs" />

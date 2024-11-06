@@ -5,52 +5,82 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//1.Create a class called Accounts which has data members/fields like Account no, Customer name, Account type, Transaction type (d/w), amount, balance
-//D->Deposit
-//W->Withdrawal
-//-write a function that updates the balance depending upon the transaction type
-	//-If transaction type is deposit call the function credit by passing the amount to be deposited and update the balance
- // function  Credit(int amount) 
-	//-If transaction type is withdraw call the function debit by passing the amount to be withdrawn and update the balance
-  //Debit(int amt) function
-//- Pass the other information like Acount no, customer name, acc type through constructor
-//-write and call the show data method to display the values.
-
-namespace Assignment_3
+class Accounts
 {
-    public class Accounts
+    private int accountNo;
+    private string Customername;
+    private string accounttype;
+    private string transactiontype;
+    private int amount;
+    private int balance;
+    public Accounts(int accno, string Custname, string accttype, int initialbalance)
     {
-        public int accountNo;
-        public String customerName;
-        public String accountType;
-        public String transactionType;
-        public double amount;
-        public double balance;
-
-        public Accounts(int accountNo,String customerName,String accountType,String transactionType,double amount,double balance)
+        accountNo = accno;
+        Customername = Custname;
+        accounttype = accttype;
+        balance = initialbalance;
+    }
+    public void updateBalance(string transtype, int amt)
+    {
+        transactiontype = transtype.ToLower();
+        amount = amt;
+        if (transactiontype == "s")
         {
-            this.accountNo = accountNo;
-            this.customerName = customerName;
-            this.accountType = accountType;
-            this.transactionType = transactionType;
-            this.amount = amount;
-            this.balance = balance;
+            credit(amount);
+        }
+        else if (transactiontype == "o")
+        {
+            debit(amount);
+        }
+        else
+        {
+            Console.WriteLine("invalid transaction");
         }
 
-        public static void credit(double amount)
+    }
+    private void credit(int amount)
+    {
+        balance += amount;
+        Console.WriteLine($"{amount} has been credited to your account.");
+    }
+    private void debit(int amount)
+    {
+        if (amount > balance)
         {
-             if(amount > 0)
-            {
-                
-            }
+            Console.WriteLine("insufficient balance.");
         }
-
-        public static void transactionTypes(String transactionType )
+        else
         {
-            if(transactionType == "deposit")
-            {
-
-            }
+            balance -= amount;
+            Console.WriteLine($"{amount} has been Debited to your account.");
         }
+    }
+    public void showdata()
+    {
+        Console.WriteLine("account datails:");
+        Console.WriteLine($"Account No:{accountNo}");
+        Console.WriteLine($"Customer name:{Customername}");
+        Console.WriteLine($"Account type:{accounttype}");
+        Console.WriteLine($"Transaction Type:{(transactiontype == "d" ? "deposit" : "withdrawal")}");
+        Console.WriteLine($"transaction amount:{amount}");
+        Console.WriteLine($"Customer balance:{balance}");
+    }
+}
+class program
+{
+    static void Main()
+    {
+        Accounts account = new Accounts(517126, "somu", "salary", 30000);
+        Console.Write("enter transaction type(  for deposit,  for withdrawal):");
+        string transtype = Console.ReadLine();
+        Console.Write("enter ammount: ");
+        int amt = int.Parse(Console.ReadLine());
+
+        account.updateBalance(transtype, amt);
+
+        account.showdata();
+        Console.Read();
+
+
     }
 }
