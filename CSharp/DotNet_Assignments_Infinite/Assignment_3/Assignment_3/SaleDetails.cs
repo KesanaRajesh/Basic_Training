@@ -68,6 +68,7 @@ namespace Assignment_3
 
             SaleDetails saleDetails = new SaleDetails(salesNo,productNo,price,dateOfSale,quantity,totalAmount);
             SaleDetails.showData(saleDetails);
+            Console.Read();
         }
            
     }
