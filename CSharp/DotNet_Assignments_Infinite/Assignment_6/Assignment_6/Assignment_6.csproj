@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C5769ED0-07A9-4866-B0BB-5F8E0BFFF8B7}</ProjectGuid>
+    <ProjectGuid>{CE33D8E4-D0AE-48FD-934B-A7816AF561C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assignment_5</RootNamespace>
-    <AssemblyName>Assignment_5</AssemblyName>
+    <RootNamespace>Assignment_6</RootNamespace>
+    <AssemblyName>Assignment_6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment_5.File_Class</StartupObject>
+    <StartupObject>Assignment_6.EmployeeMainClass</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Books_MainClass.cs" />
-    <Compile Include="Count_No_Of_Lines_In_The_File.cs" />
-    <Compile Include="File_Class.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Question2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SquaresOfNumbers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,6 @@
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\DotNet_Training\Infinite_1\CSharp\DotNet_Assignments_Infinite\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
