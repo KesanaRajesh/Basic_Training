@@ -14,10 +14,6 @@ using System.Threading.Tasks;
 
 namespace Assessment_2
 {
-
-
-
-
     public abstract class Student
     {
         public string Name;

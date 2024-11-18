@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assessment_2.NumberException_MainClass</StartupObject>
+    <StartupObject>Assessment_2.Product_Main_Class</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
