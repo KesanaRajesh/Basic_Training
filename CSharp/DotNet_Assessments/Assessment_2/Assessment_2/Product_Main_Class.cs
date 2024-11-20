@@ -58,13 +58,11 @@ namespace Assessment_2
                     }
                 }
             }
-
             Console.WriteLine("Sorted Products based on Price:");
             for (int i = 0; i < products.Length; i++)
             {
                 Console.WriteLine($"Product ID: {products[i].ProductId}, Name: {products[i].ProductName}, Price: {products[i].Price:C}");
             }
-
         }
     }
 }

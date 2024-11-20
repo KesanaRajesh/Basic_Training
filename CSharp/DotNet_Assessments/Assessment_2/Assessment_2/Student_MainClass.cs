@@ -85,7 +85,6 @@ namespace Assessment_2
             Console.WriteLine($"student id : {s_id}");
             Console.WriteLine($"Grade      : {grade}");
             Console.WriteLine($"Is Passed  : {s.IsPassed(grade)}");
-
             Console.ReadLine();
         }
     }
