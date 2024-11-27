@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{84D67481-57B7-4DF6-ADC8-8DF0752E14D5}</ProjectGuid>
+    <ProjectGuid>{737B0B6C-5EE9-451B-BE54-1F058A49400F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assessment_3</RootNamespace>
-    <AssemblyName>Assessment_3</AssemblyName>
+    <RootNamespace>Assessment_4</RootNamespace>
+    <AssemblyName>Assessment_4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Assessment_3.Box_Main_Method</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,10 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Box.cs" />
-    <Compile Include="AppendText.cs" />
-    <Compile Include="Calculator_Functions.cs" />
-    <Compile Include="Cricketteam.cs" />
+    <Compile Include="CollectionProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

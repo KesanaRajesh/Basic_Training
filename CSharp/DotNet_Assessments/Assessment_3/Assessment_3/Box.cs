@@ -13,9 +13,6 @@ namespace Assessment_3
     {
         public double Length { get; set; }
         public double Breadth { get; set; }
-
-        
-
         public static Box Add(Box b1, Box b2)
         {
             return new Box
