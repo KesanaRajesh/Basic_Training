@@ -1,0 +1,7 @@
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.AssemblyReference.cache
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+C:\DotNet_Training\Infinite_1\SQL\SQL_Assessments\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
