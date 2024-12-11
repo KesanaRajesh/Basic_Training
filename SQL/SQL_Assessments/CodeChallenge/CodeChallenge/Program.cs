@@ -15,7 +15,7 @@ namespace CodeChallenge
         public static IDataReader reader = null;
         void Operations()
         {
-            connection = new SqlConnection("Data source = ICS-LT-D244D6GL; database = ADOAssesment; trusted_connection = true;");
+            connection = new SqlConnection("Data source = ICS-LT-D244D68N; database = assessments; trusted_connection = true;");
             Console.WriteLine("Successfully connected:");
             connection.Open();
             command = new SqlCommand("sp_productdetails", connection);
