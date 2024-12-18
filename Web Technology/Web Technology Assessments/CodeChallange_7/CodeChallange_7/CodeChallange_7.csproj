@@ -49,5 +49,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Changes.html" />
+    <Content Include="Colspan.html" />
+    <Content Include="EventListner.html" />
+    <Content Include="OddOrEven.html" />
+    <Content Include="Operations.html" />
+    <Content Include="OrderedList.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
