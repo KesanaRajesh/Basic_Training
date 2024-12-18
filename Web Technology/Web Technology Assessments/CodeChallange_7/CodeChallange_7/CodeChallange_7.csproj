@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D424F86-112F-49F5-82FB-4DC5A8936703}</ProjectGuid>
+    <ProjectGuid>{E2E0832A-0926-4E2D-810E-A14BF3D11015}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>WebTechnology_Assignment_1</RootNamespace>
-    <AssemblyName>WebTechnology_Assignment-1</AssemblyName>
+    <RootNamespace>CodeChallange_7</RootNamespace>
+    <AssemblyName>CodeChallange_7</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,9 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Assignment-1.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
