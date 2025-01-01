@@ -21,7 +21,6 @@ namespace Railway_Reservation_System
 
             switch (option)
             {
-
                 case 1:
                     AdminInformation.Admin();
                     break;

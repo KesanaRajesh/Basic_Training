@@ -17,12 +17,14 @@ namespace Railway_Reservation_System
         static int count = 0;
         public static void User()
         {
-            Console.WriteLine("Before Booking Check Trains Available....");
-            Console.WriteLine("1.Display Train Information");
+          
+                Console.WriteLine("Select an option: ");
+            Console.WriteLine("1.Display Train Information which is active:");
             Console.WriteLine("2.Book Tickets");
             Console.WriteLine("3.Cancel Tickets");
             count = count + 1;
             string UserChoice = Console.ReadLine();
+
 
             switch (UserChoice)
             {
@@ -35,10 +37,12 @@ namespace Railway_Reservation_System
                 case "3":
                     CancelTrainTickets();
                     break;
+
                 default:
                     Console.WriteLine("Invalid Option");
                     break;
             }
+            
         }
         public static void ShowAllTrainInformation()
         {
@@ -50,10 +54,12 @@ namespace Railway_Reservation_System
             Console.WriteLine("Available Trains Are Shown Below....");
             while (reader.Read())
             {
-                Console.WriteLine($"TrainNo:{reader["TRAIN_NO"]},TrainName:{reader["TRAIN_NAME"]}, Source:{reader["SOURCE"]},Destination:{reader["DESTINATION"]},Seats_Available:{reader["SEATS_AVALIABLE"]},TrainStatus:{reader["TRAIN_STATUS"]},");
+                Console.WriteLine($"TrainNo:{reader["TRAIN_NO"]}, TrainName:{reader["TRAIN_NAME"]}, Source:{reader["SOURCE"]}, Destination:{reader["DESTINATION"]}, Seats_Available:{reader["SEATS_AVALIABLE"]}, TrainStatus:{reader["TRAIN_STATUS"]},");
+                Console.WriteLine("-----------------------------");
             }
             while (count == 1)
             {
+
                 User();
                 break;
             }
@@ -101,36 +107,16 @@ namespace Railway_Reservation_System
         }
         public static void CancelTrainTickets()
         {
-            Console.WriteLine("Enter the Train number");
-            int TrainNo = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the Train Name :");
-            string TrainName = Console.ReadLine();
-            Console.WriteLine("Enter Passenger Name: ");
-            string PassengerName = Console.ReadLine();
-            Console.WriteLine("Enter Passenger Age: ");
-            int PassengerAge = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter Gender: ");
-            string gender = Console.ReadLine();
-            Console.WriteLine("Enter Class Type ");
-            string ClassType = Console.ReadLine();
-            Console.WriteLine("Enter Price of Ticket: ");
-            int PriceOfTicket = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter Number Of Tickets:");
-            int NumberOfTickets = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the Booking ID");
+            int bookingid = Convert.ToInt32(Console.ReadLine());
+            
             string status = "Cancelled";
             connection = new SqlConnection("Data Source = ICS-LT-D244D68N; database =RAILWAY_RESERVATION_SYSTEM; trusted_connection = true;");
             connection.Open();
             command = new SqlCommand("sp_Cancel_Ticket", connection);
             command.CommandType = CommandType.StoredProcedure;
-            command.Parameters.AddWithValue("@TRAIN_NO", TrainNo);
-            command.Parameters.AddWithValue("@TRAIN_NAME", TrainName);
-            command.Parameters.AddWithValue("@PASSENGER_NAME", PassengerName);
-            command.Parameters.AddWithValue("@PASSENGER_AGE", PassengerAge);
-            command.Parameters.AddWithValue("@GENDER", gender);
-            command.Parameters.AddWithValue("@CLASS_TYPE", ClassType);
-            command.Parameters.AddWithValue("@PRICE_OF_TICKET", PriceOfTicket);
-            command.Parameters.AddWithValue("@NUMBER_OF_TICKETS", NumberOfTickets);
-            command.Parameters.AddWithValue("@STATUS", status);
+            command.Parameters.AddWithValue("@Booking_ID", bookingid);
+               
             int result = command.ExecuteNonQuery();
             if (result > 0)
             {
@@ -138,7 +124,7 @@ namespace Railway_Reservation_System
             }
             else
             {
-                Console.WriteLine("not cancelled....!!!!");
+                Console.WriteLine("Tickt not cancelled.....!!!!");
             }
         }
 

@@ -15,7 +15,7 @@ namespace Railway_Reservation_System
         public static IDataReader dataReader = null;
         public static void Admin()
         {
-            Console.WriteLine("Select one option 1.Add Trains or 2.Modify Trains or 3.Delete Trains");
+            Console.WriteLine("Select one option :");
             Console.WriteLine("1.Add Trains");
             Console.WriteLine("2.Modify Trains");
             Console.WriteLine("3.Delete Trains");
@@ -98,7 +98,6 @@ namespace Railway_Reservation_System
             {
                 Console.WriteLine("Train Details not Deleted....!!!!");
             }
-
         }
     }
 }
