@@ -1,3 +1,5 @@
+-- Rajesh Auto pr sql
+
 use assignments
 
 --Write a T-SQL Program to find the factorial of a given number.
